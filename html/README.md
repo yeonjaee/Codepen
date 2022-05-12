@@ -11,4 +11,7 @@
         <li>구성 영역을 행 단위로 분리</li>
         <li>나누어진 행의 내부 요소를 분리</li>
     </ol>
+    <hr>
+	<a href="https://github.com/yeonjaee/frontend/blob/master/html/only styles page.html"><img src="assets/README/image-20220512232755663.png"></a>
 </div>
+
